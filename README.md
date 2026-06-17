@@ -1,4 +1,4 @@
-# LIMO ROS 2 Line Follower
+# LIMO ROS2 Line Follower
 
 ROS 2 Humble 기반의 LIMO 로봇 라인 추종 및 장애물 회피 시스템입니다.
 
