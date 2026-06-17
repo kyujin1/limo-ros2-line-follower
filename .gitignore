@@ -1,0 +1,7 @@
+# .gitignore 파일 내용
+build/
+install/
+log/
+*.pyc
+__pycache__/
+.vscode/
